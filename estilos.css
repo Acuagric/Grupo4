@@ -190,7 +190,9 @@ nav .enlaces a:hover{
   font-weight: 300;
   color: var(--color1);
 }
-
+.contenedor a{
+  color: var(--color1);
+}
 .after::after{
   content:'';
   display: block;
