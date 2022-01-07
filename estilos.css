@@ -333,6 +333,9 @@ footer{background:url(img/teclado.jpg);}
 }
 .marca-logo img{
   width: 50%;
+  position: relative;
+  top: -15px; /* ajustar los valores para mover la imagen */
+  left: -5px;
 }
 .marca-ayto{
   width: 40%;
