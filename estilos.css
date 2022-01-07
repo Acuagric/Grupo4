@@ -193,6 +193,10 @@ nav .enlaces a:hover{
 .contenedor a{
   color: var(--color1);
 }
+
+.fas fa-angle-double-right {
+  color: var(--color1);
+}
 .after::after{
   content:'';
   display: block;
