@@ -340,7 +340,7 @@ footer{background:url(img/teclado.jpg);}
   margin-bottom: var(--espacios);
 }
 .marca-ayto img{
-  width: 50%;
+  width: 60%;
 }
 .iconos{
   display: flex;
