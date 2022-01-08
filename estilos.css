@@ -328,6 +328,14 @@ nav .enlaces a:hover{
 
 footer{background:url(img/teclado.jpg);}
 
+.imagenes-footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+}
+
+
 .marca-logo{
   width: 40%;
   margin: auto;
