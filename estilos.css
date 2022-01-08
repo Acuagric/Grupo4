@@ -336,11 +336,8 @@ footer{background:url(img/teclado.jpg);}
 }
 
 .footer contenedor img{
-  height: 90px;
-}
-
-.bottom-footer a{
-
+  height: 90px  HSPACE="10" VSPACE="10";
+  
 }
 .marca-logo{
   width: 40%;
